@@ -1,0 +1,3 @@
+# VYUMA : BOOK SERENITY
+
+Vyuma: Book Serenity is an online platform promoting cultural tourism through local homestays and affordable guest houses, empowering travelers with authentic experiences while supporting local economies. Featuring an AI Generator for real-time assistance and local guide options by language, it connects travelers to immersive, community-focused tourism. Vyuma aims to create employment opportunities and foster meaningful cultural exchange, transforming the travel experience.
